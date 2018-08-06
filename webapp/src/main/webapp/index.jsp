@@ -1,1 +1,1 @@
-Welcome to Cloud Practice !!!!
+Welcome to DevOps Lab !!!!
